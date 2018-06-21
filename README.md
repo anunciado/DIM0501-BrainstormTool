@@ -50,15 +50,21 @@ There are two ways to run this software:
 $ java * .java -d <target_address_name>
 ```
 2. Enter the chosen destination directory and run the following command:
-For OwnerInterface:
+- For OwnerInterface:
 ```
 $ java gui.OwnerInterface
 ```
-For UserInterface:
+- For UserInterface:
 ```
 $ java gui.UserInterface
 ```
 3. From this it only interacts with the system.
+
+In the owner interface, in terminal or ide will appear a screen like below for interations:
+![Example](/images/example1.png)
+
+In the user interface, in terminal or ide will appear a screen like below for interations:
+![Example](/images/example2.png)
 
 ## Built With
 
@@ -68,7 +74,7 @@ $ java gui.UserInterface
 ### Developers: 
 * **Luís Eduardo Anunciado Silva ([cruxiu@ufrn.edu.br](mailto:cruxiu@ufrn.edu.br))** 
 ### Project Advisor: 
-* **Andre Mauricio Cunha Campos ([augusto@dimap.ufrn.br](mailto:andre@dimap.ufrn.br))** 
+* **Andre Mauricio Cunha Campos ([andre@dimap.ufrn.br](mailto:andre@dimap.ufrn.br))** 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
