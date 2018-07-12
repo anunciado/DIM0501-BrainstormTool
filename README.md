@@ -76,7 +76,7 @@ In the user interface, in terminal or ide will appear a screen like below for in
 ### Project Advisor: 
 * **Andre Mauricio Cunha Campos ([andre@dimap.ufrn.br](mailto:andre@dimap.ufrn.br))** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/cruxiu/DIM0501-BrainstormTool/contributors) who participated in this project.
 
 ## License
 
